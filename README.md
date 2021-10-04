@@ -1,3 +1,3 @@
 # Resume
 
-Repository with my resume in portuguese and english versions.
+Repository with my data science resume in portuguese and english versions.
