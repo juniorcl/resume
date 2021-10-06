@@ -6,7 +6,7 @@
 
 ## Introduction
 
-I'm a physics professor and a data scientist with a passion for technology. I currently work as a data scientist at a company focused on logistic of fractional transport. In this company, I develop projects focused on analyzing structured and unstructured data. Such projects aim to create machine learning algorithms to generate automated insights that add value to customers. I also have a portfolio of general data science projects that can be accessed by [link](https://www.juniorcl.github.io) or from my webpage on [GitHub](https://github.com/juniorcl).
+I'm a physics professor and a data scientist with a passion for technology. I currently work as a data scientist in a company focused on logistic of fractional transport. In this company, I develop projects focused on analyzing structured and unstructured data. Such projects aim to create machine learning algorithms to generate automated insights that add value to customers. I also have a portfolio of general data science projects that can be accessed by [link](https://www.juniorcl.github.io) or from my webpage on [GitHub](https://github.com/juniorcl).
 
 ## Experiences
 
@@ -32,7 +32,7 @@ I'm a physics professor and a data scientist with a passion for technology. I cu
 
     As a way to study and improve myself, I carry out data science projects that can be accessed through the link [juniorcl.github.io](https://juniorcl.github.io) or through my [GitHub](https://www.github.com/juniorcl). During project preparation I use the CRISP-DM method: ranging from business understanding, data analysis, to extracting insights, to deploying the machine learning model.
 
-- **Competitor e Contributor**, *Kaggle*, Julho 2020 -
+- **Competitor and Contributor**, *Kaggle*, Julho 2020 -
 
     I work on [Kaggle](https://www.kaggle.com/juniorcl) participating in competitions and contributing through notebooks and forums. I currently have 8 bronze medals for these contributions. My most recent competition was on image recognition algorithms where I applied convolutional neural networks like [LeNet-5, getting a accuracy of 99.214%](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer).
 
@@ -44,7 +44,7 @@ I'm a physics professor and a data scientist with a passion for technology. I cu
 
 ## Complementary Courses
 
-- **Comunidade DS (DS Comunity)**, **Seja um Data Scientist (Be A Data Scientist)**, in Progress.
+- **Comunidade DS (DS Comunity)**, *Seja um Data Scientist (Be A Data Scientist)*, in Progress.
 
 - **Data Science em Produção (Data Science in Production)**, *Seja um Data Scientist (Be A Data Scientist)*, November 2020.
 
