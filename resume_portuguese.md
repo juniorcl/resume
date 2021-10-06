@@ -34,7 +34,7 @@ Sou professor de física e cientista de dados apaixonado por tecnologia. Atualme
 
 - **Competidor e Contribuinte**, *Kaggle*, Julho 2020 -
 
-    Atuo no [Kaggle](https://www.kaggle.com/juniorcl) participando de competições e contribuindo por meio de notebooks e fóruns. Atualmente possuo 8 medalhas de bronze por essas contribuições. A minha mais recentente competição foi sobre reconhecimento de imagens de algoritmos onde apliquei redes neurais convolucionais do tipo [LeNet-5 ficando, atingindo uma acurácia de 99,214%](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer).
+    Atuo no [Kaggle](https://www.kaggle.com/juniorcl) participando de competições e contribuindo por meio de notebooks e fóruns. Atualmente possuo 8 medalhas de bronze por essas contribuições. A minha mais recentente competição foi sobre reconhecimento de imagens de algoritmos onde apliquei redes neurais convolucionais do tipo [LeNet-5, atingindo uma acurácia de 99,214%](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer).
 
 ## Formação
 
