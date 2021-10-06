@@ -64,7 +64,7 @@ I'm a physics professor and a data scientist with a passion for technology. I cu
 
 ## Languages
 
-- English, *Intermediary*
+- English, *Advanced*
 
 - Esperanto, *Advanced*
 

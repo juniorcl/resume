@@ -64,7 +64,7 @@ Sou professor de física e cientista de dados apaixonado por tecnologia. Atualme
 
 ## Idiomas
 
-- Inglês, *Intermediário*
+- Inglês, *Avançado*
 
 - Esperanto, *Avançado*
 
