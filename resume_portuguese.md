@@ -44,13 +44,13 @@ Sou professor de física e cientista de dados apaixonado por tecnologia. Atualme
 
 ## Cursos Complementares
 
-- **Comunidade Data Science**, *Seja um Data Scientist*, em Andamento.
+- **Comunidade Data Science**, *Comunidade DS*, em Andamento.
 
-- **Data Science em Produção**, *Seja um Data Scientist*, Novembro 2020.
+- **Data Science em Produção**, *Comunidade DS*, Novembro 2020.
 
-- **Deep Learning com Python de A a Z**, *Udemy*, Março 2020
+- **Deep Learning com Python de A a Z**, *IA Expert*, Março 2020
 
-- **Machine Learning and Data Science com Python de A a Z**, *Udemy*, Outubro 2019
+- **Machine Learning and Data Science com Python de A a Z**, *IA Expert*, Outubro 2019
 
 ## Habilidades e Conhecimentos
 
