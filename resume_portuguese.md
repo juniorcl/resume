@@ -6,13 +6,19 @@
 
 ## Apresentação
 
-Sou professor de física e cientista de dados apaixonado por tecnologia. Atualmente trabalho como cientista de dados em uma empresa focada em logística de transporte de carga fracionada. Nesta empresa desenvolvo projetos focados em análise de dados estruturados e não estruturados. Tais projetos têm como objetivo a criação de algoritmos de *machine learning* para gerar *insights* automáticos que geram valor para os clientes. Também possuo um portfólio de projetos gerais de ciência de dados que pode ser acessado pelo [link](https://www.juniorcl.github.io) ou na minha página do [GitHub](https://github.com/juniorcl).
+Sou professor de física e cientista de dados apaixonado por tecnologia.
+
+Atualmente trabalho como cientista de dados onde desenvolvo projetos de ciência de dados que priorizam a solução de problemas de negócio e o seu melhoramento.
+
+Como forma de aprimoramento e estudo, possuo um portfólio de projetos gerais de ciência de dados que pode ser acessado pelo endereço [juniorcl.github.io](juniorcl.github.io) ou em meu [GitHub](www.github.com/juniorcl). Durante a elaboração dos projetos utilizo o método CRISP-DM: que vai desde o entendimento de negocio, análise de dados para serem retirados insights, até o deploy do modelo.
 
 ## Experiências
 
-- **Cientista de Dados**, *Be.X!*, Março 2020 -
+- **Cientista de Dados**, *Datarisk*, Janeiro 2021 - 
 
-    Como cientista desenvolvo projetos principalmente focados em insights que podem vir desde uma análise estatística ou de modelos de aprendizagem de máquina. Abaixo encontram-se projetos que desenvolvo ou desenvolvi.
+- **Cientista de Dados**, *Be.X!*, Março 2020 - Janeiro 2021
+
+    Como cientista de dados desenvolvi projetos focados em análise de dados estruturados e não estruturados. Tais projetos tinham como objetivo a criação de algoritmos de machine learning para reportar insights automáticos que gerem valor para os clientes. Abaixo encontram-se alguns desses projetos.
 
     - Tratamento e preparação de textos para aquisição de dados não estruturados por meio de expressões regulares (regex).
 
