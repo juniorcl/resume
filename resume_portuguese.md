@@ -6,11 +6,9 @@
 
 ## Apresentação
 
-Sou professor de física e cientista de dados apaixonado por tecnologia.
+Atualmente desenvolvo projetos que priorizam a solução de problemas de negócio, desde entendê-los, analisar dados, até extrair insights e implementar a solução. Também continuo me desenvolvendo com atividades de aprimoramento e estudo como portfólio de projetos de ciência de dados e também escrevo sobre o mesmo tema em um blog no [Medium](https://medium.com/@juniorcl).
 
-Atualmente trabalho como cientista de dados onde desenvolvo projetos de ciência de dados que priorizam a solução de problemas de negócio e o seu melhoramento.
-
-Como forma de aprimoramento e estudo, possuo um portfólio de projetos gerais de ciência de dados que pode ser acessado pelo endereço [juniorcl.github.io](juniorcl.github.io) ou em meu [GitHub](www.github.com/juniorcl). Durante a elaboração dos projetos utilizo o método CRISP-DM: que vai desde o entendimento de negocio, análise de dados para serem retirados insights, até o deploy do modelo.
+Para mais detalhes sobre os meus projetos e cada solução, eles estão descritos em meu portfólio [juniorcl.github.io](https://github.com/juniorcl) ou em minha página no [GitHub](https://www.github.com/juniorcl).
 
 ## Experiências
 
