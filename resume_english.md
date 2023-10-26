@@ -8,7 +8,7 @@
 
 I'm a physics teacher and a data scientist with a passion for technology. I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on [Medium](https://medium.com/@juniorcl). 
 
-For more details about my projects and each solution, they are described in my portfolio [juniorcl.github.io](https://www.github.com/juniorcl) or from my webpage on [GitHub](https://github.com/juniorcl)
+For more details about my projects and each solution, they are described in my portfolio [juniorcl.github.io](https://www.github.com/juniorcl) or from my [GitHub](https://github.com/juniorcl) page.
 
 ## Experiences
 
