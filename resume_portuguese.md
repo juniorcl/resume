@@ -12,7 +12,15 @@ Para mais detalhes sobre os meus projetos e cada solução, eles estão descrito
 
 ## Experiências
 
-- **Cientista de Dados**, *Datarisk*, Janeiro 2021 - 
+- **Cientista de Dados**, *Datarisk*, Janeiro 2021 - Atualmente
+
+    Meu trabalho se baseia em explorar, limpar e analisar dados para trazer resultados relacionados a problemas de negócio com auxílio de machine learning. Abaixo estão alguns exemplos de projetos:
+    
+    - Desenvolvimento de um modelo de *machine learning* de regressão para previsão de vendas baseado no histórico de anos anteriores.
+
+    - Estudo e aplicação de modelo de *machine learning* de clusterização para compreensão de diferentes perfis de clientes.
+
+    - Implementação de modelo que identifica determinados comportamentos do cliente, como propensão a se tornar *premium*, possível mau pagador ou com instabilidade no emprego.
 
 - **Cientista de Dados**, *Be.X!*, Março 2020 - Janeiro 2021
 
