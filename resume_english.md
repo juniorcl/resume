@@ -6,13 +6,23 @@
 
 ## Introduction
 
-I'm a physics professor and a data scientist with a passion for technology. I currently work as a data scientist in a company focused on logistic of fractional transport. In this company, I develop projects focused on analyzing structured and unstructured data. Such projects aim to create machine learning algorithms to generate automated insights that add value to customers. I also have a portfolio of general data science projects that can be accessed by [link](https://www.juniorcl.github.io) or from my webpage on [GitHub](https://github.com/juniorcl).
+I'm a physics teacher and a data scientist with a passion for technology. Currently I develop projects that prioritize the solution of business problems ranging from understanding the business, analyzing data, to extracting insights and deploy of the solution. For improvement and study, I continue related activities, such as portfolio of general data science projects, that can be accessed by [link](https://www.juniorcl.github.io) or from my webpage on [GitHub](https://github.com/juniorcl), and I write about data science in a [Medium](https://medium.com/@juniorcl) blog.
 
 ## Experiences
 
-- **Data Scientist**, *Be.X!*, March 2021 -
+- **Data Scientist**, *Datarisk*, January 2021 -
 
-    As a scientist I develop projects mainly focused on insights that can come from statistical analysis or machine learning models. Below are projects that I develop or developed.
+    My work is based on exploring, cleaning and analyzing data to bring results related to business problems with the help of machine learning. Below are some example projects:
+
+    - Development of a machine learning regression model for sales forecasting based on the history of previous years.
+
+    - Study and application of a clustering machine learning model for understanding different customer profiles.
+ 
+    - Implementation of a model that identifies certain customer behaviors, such as becoming premium, bad payer or having job instability.
+
+- **Data Scientist**, *Be.X!*, March 2021 - January 2021
+
+    As a scientist I developed projects mainly focused on insights that can come from statistical analysis or machine learning models. Below there are some examples of these projects.
 
     - Treatment and preparation of texts for unstructured data acquisition through regular expressions (regex).
 
@@ -26,16 +36,6 @@ I'm a physics professor and a data scientist with a passion for technology. I cu
 
     During my master's degree I also worked as an extension fellow and professor of physics at the UENF Social Pre-Entrance Exam. During this period I mainly taught subjects related to classical mechanics. This mainly gave me public speaking experience.
 
-## Related Activities
-
-- **Data Scientist**, *Portfolio Projects*, November 2020 -
-
-    As a way to study and improve myself, I carry out data science projects that can be accessed through the link [juniorcl.github.io](https://juniorcl.github.io) or through my [GitHub](https://www.github.com/juniorcl). During project preparation I use the CRISP-DM method: ranging from business understanding, data analysis, to extracting insights, to deploying the machine learning model.
-
-- **Competitor and Contributor**, *Kaggle*, Julho 2020 -
-
-    I work on [Kaggle](https://www.kaggle.com/juniorcl) participating in competitions and contributing through notebooks and forums. I currently have 8 bronze medals for these contributions. My most recent competition was on image recognition algorithms where I applied convolutional neural networks like [LeNet-5, getting a accuracy of 99.214%](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer).
-
 ## Education
 
 - **Master's Degree in Natural Sciences**, *Universidade Estadual do Estadual do Norte Fluminense Darcy Ribeiro*, 2017 - 2019
@@ -44,13 +44,13 @@ I'm a physics professor and a data scientist with a passion for technology. I cu
 
 ## Complementary Courses
 
-- **Comunidade DS (DS Comunity)**, *Seja um Data Scientist (Be A Data Scientist)*, in Progress.
+- **DS Comunity**, *Be A Data Scientist*, November 2022.
 
-- **Data Science em Produção (Data Science in Production)**, *Seja um Data Scientist (Be A Data Scientist)*, November 2020.
+- **Data Science in Production**, *Be A Data Scientist*, November 2020.
 
-- **Deep Learning com Python de A a Z (Deep Learning with Python from Scratch)**, *Udemy*, March 2020
+- **Deep Learning with Python from Scratch**, *Udemy*, March 2020
 
-- **Machine Learning and Data Science com Python de A a Z (Machine Learning and Data Science with Python from Scratch)**, *Udemy*, October 2019
+- **Machine Learning and Data Science with Python from Scratch**, *Udemy*, October 2019
 
 ## Skills and Knowledge
 
