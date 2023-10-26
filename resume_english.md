@@ -10,7 +10,7 @@ I'm a physics teacher and a data scientist with a passion for technology. Curren
 
 ## Experiences
 
-- **Data Scientist**, *Datarisk*, January 2021 -
+- **Data Scientist**, *Datarisk*, January 2021 - Today
 
     My work is based on exploring, cleaning and analyzing data to bring results related to business problems with the help of machine learning. Below are some example projects:
 
