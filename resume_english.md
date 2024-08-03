@@ -12,9 +12,11 @@ For more details about my projects and each solution, they are described in my p
 
 ## Experiences
 
-- **Data Scientist**, *Datarisk*, January 2021 - Today
+- **Data Scientist**, *Datarisk*, January 2021 - August 2024
 
     My work is based on exploring, cleaning and analyzing data to bring results related to business problems with the help of machine learning. Below are some example projects:
+
+    - Development of a machine learning model with the purpose of determining a better credit score through the history of individuals.
 
     - Development of a machine learning regression model for sales forecasting based on the history of previous years.
 
