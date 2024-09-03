@@ -12,10 +12,12 @@ For more details about my projects and each solution, they are described in my p
 
 ## Experiences
 
-- **Data Scientist**, *Datarisk*, January 2021 - August 2024
+- **Data Scientist**, *Datarisk*, January 2022 - August 2024
 
     My work is based on exploring, cleaning and analyzing data to bring results related to business problems with the help of machine learning. Below are some example projects:
 
+    - Python, Data Science, Machine Learning, Data Analysis, Git, SQL, Credit Score and Credit Risk.
+    
     - Development of a machine learning model with the purpose of determining a better credit score through the history of individuals.
 
     - Development of a machine learning regression model for sales forecasting based on the history of previous years.
@@ -24,9 +26,11 @@ For more details about my projects and each solution, they are described in my p
  
     - Implementation of a model that identifies certain customer behaviors, such as becoming premium, bad payer or having job instability.
 
-- **Data Scientist**, *Be.X!*, March 2021 - January 2021
+- **Data Scientist**, *Be.X!*, March 2021 - January 2022
 
     As a scientist I developed projects mainly focused on insights that can come from statistical analysis or machine learning models. Below there are some examples of these projects.
+
+    - Python, Data Science, Machine Learning, Data Analysis, Git and SQL.
 
     - Treatment and preparation of texts for unstructured data acquisition through regular expressions (regex).
 
@@ -35,10 +39,6 @@ For more details about my projects and each solution, they are described in my p
     - Implementation and use of machine learning models that can better describe the impacts of variables on the business.
 
     - Machine learning model development to discover deliveries with the greatest possibility of delay through ranking metrics.
-
-- **Physics Teacher**, *Pre Extrance Exam Physics Teacher*, August 2017 - August 2019
-
-    During my master's degree I also worked as an extension fellow and professor of physics at the UENF Social Pre-Entrance Exam. During this period I mainly taught subjects related to classical mechanics. This mainly gave me public speaking experience.
 
 ## Education
 
