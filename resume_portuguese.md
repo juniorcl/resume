@@ -1,85 +1,60 @@
-<div align="center"><big><h2>Clébio Marques de Oliveira Júnior</big></h2></div>
+<div align="center"><big><h2>Clébio Marques de Oliveira Júnior</h2></big></div>
 
 <div align="center" style="color:gray"> 
     clebiomojunior@gmail.com | <a href="https://medium.com/@juniorcl" style="color:gray">medium.com/@juniorcl</a> | <a href="https://www.linkedin.com/in/clebiojunior" style="color:gray">linkedin/in/clebiojunior</a> | <a href="https://www.github.com/juniorcl" style="color:gray">github.com/juniorcl</a>
 </div>
 
-## Apresentação
+## Resumo Profissional
 
-Atualmente desenvolvo projetos que priorizam a solução de problemas de negócio, desde entendê-los, analisar dados, até extrair insights e implementar a solução. Também continuo me desenvolvendo com atividades de aprimoramento e estudo como portfólio de projetos de ciência de dados e também escrevo sobre o mesmo tema em um blog no [Medium](https://medium.com/@juniorcl).
+Cientista de Dados com mais de **4 anos de experiência** em **machine learning, NLP e análise de dados** para solucionar problemas de negócio com impacto real.  
+Experiência em projetos de **score de crédito, previsão de vendas, segmentação de clientes e análise de comportamento**, além de extração e tratamento de **dados não estruturados** com técnicas avançadas de OCR e regex.  
 
-Para mais detalhes sobre os meus projetos e cada solução, eles estão descritos em meu portfólio [juniorcl.github.io](https://juniorcl.github.io/) ou em minha página no [GitHub](https://www.github.com/juniorcl).
+Atuação em empresas de tecnologia e consultoria (Vert Analytics, Datarisk, Be.X!), com entregas envolvendo desde **exploração e modelagem de dados** até a **construção de dashboards interativos em SAS**.  
+Mantenho portfólio ativo no GitHub e blog técnico no Medium, além de contribuições reconhecidas no Kaggle.
 
-## Experiências
+## Experiência Profissional
 
-- **Cientista de Dados**, *Datarisk*, Janeiro 2021 - Agosto 2024
+#### Cientista de Dados – *Vert Analytics*  
+*Out 2024 – Presente*  
+- Desenvolvimento de dashboards estratégicos em **SAS**, a partir da exploração de dados estruturados e não estruturados.  
+- **Extração avançada de dados não estruturados** (PDF, OCR, regex), tratamento de missing values e integração em análises temporais.  
+- Projeto de **NLP para análise de comentários em redes sociais**, usando **spaCy** (tokenização, lematização, stopwords, correção gramatical), com resultados exibidos em dashboards interativos.  
 
-    Meu trabalho se baseia em explorar, limpar e analisar dados para trazer resultados relacionados a problemas de negócio com auxílio de machine learning. Abaixo estão alguns exemplos de projetos:
+#### Cientista de Dados – *Datarisk*  
+*Jan 2022 – Ago 2024*  
+- **Score de crédito**: modelo de ML que aumentou a precisão na concessão de crédito, reduzindo risco de inadimplência.  
+- **Previsão de vendas**: modelo de regressão que reduziu o erro médio em 12 %, apoiando planejamento estratégico.  
+- **Clusterização de clientes**: segmentação de perfis, viabilizando campanhas de marketing mais direcionadas.  
+- **Modelos preditivos de comportamento**: identificação de clientes com propensão ao churn, risco de inadimplência e instabilidade no emprego.  
 
-    - Python, Data Science, Machine Learning, Análise de Dados, Git, SQL, Score de Crédito e Risco de Crédito.
+#### Cientista de Dados – *Be.X!*  
+*Mar 2021 – Jan 2022*  
+- Extração de informações de **dados não estruturados** com regex e NLP.  
+- Detecção de **outliers com regras de negócio**, reduzindo impactos em relatórios operacionais.  
+- Predição de **atrasos em entregas** via modelos de ranking, permitindo ações preventivas na logística. 
 
-    - Desenvolvimento de um modelo de aprendizagem de máquina com a finalidade de de determinar um melhor score de crédito através do histórico de pessoas físicas.
+## Formação Acadêmica
 
-    - Desenvolvimento de um modelo de *machine learning* de regressão para previsão de vendas baseado no histórico de anos anteriores.
+- **Mestrado em Ciências Naturais (Ciências Ambientais)** – UENF, 2017-2019  
+- **Licenciatura em Física** – Instituto Federal Fluminense, 2010-2016  
 
-    - Estudo e aplicação de modelo de *machine learning* de clusterização para compreensão de diferentes perfis de clientes.
+## Certificações
 
-    - Implementação de modelo que identifica determinados comportamentos do cliente, como propensão a se tornar *premium*, possível mau pagador ou com instabilidade no emprego.
+- Estatística para Ciência de Dados e Machine Learning  
+- Sumarização de Textos com Processamento de Linguagem Natural  
+- Clustering: extraindo padrões de dados  
+- Reconhecimento de Textos com OCR e Python  
+- Machine Learning e Data Science com Python de A a Z  
 
-- **Cientista de Dados**, *Be.X!*, Março 2020 - Janeiro 2021
+## Habilidades Técnicas
 
-    Como cientista de dados desenvolvi projetos focados em análise de dados estruturados e não estruturados. Tais projetos tinham como objetivo a criação de algoritmos de machine learning para reportar insights automáticos que gerem valor para os clientes. Abaixo encontram-se alguns desses projetos.
-
-    - Python, Data Science, Machine Learning, Análise de Dados, Git e SQL.
-
-    - Tratamento e preparação de textos para aquisição de dados não estruturados por meio de expressões regulares (regex).
-
-    - Aplicação de métodos estatísticos para descobrir  pontos anômalos (*outliers*) e que podem ser prejudiciais e fundamentais para a tomada de decisão.
-
-    - Implementação e utilização de modelos de aprendizagem de máquina que podem descrever melhor os impactos das variáveis para o negócio.
-
-    - Desenvolvimento de modelo de *machine learning* para descobrir as entregas com maior possibilidade de atraso por meio de métricas de ranqueamento.
-
-## Atividades Relacionadas
-
-- **Cientista de Dados**, *Projetos de Portfólio*, Novembro 2020 -
-
-    Como forma de estudo e aprimoramento, realizo projetos de ciências de dados que podem ser acessados pelo endereço [juniorcl.github.io](https://juniorcl.github.io) ou pela minha página do [GitHub](https://www.github.com/juniorcl). Durante a elaboração dos projetos utilizo o método CRISP-DM: que vai desde o entedimento de negócio, análise de dados, para serem retirados *insights*, até o deploy do modelo de *machine learning*.
-
-- **Competidor e Contribuinte**, *Kaggle*, Julho 2020 -
-
-    Atuo no [Kaggle](https://www.kaggle.com/juniorcl) participando de competições e contribuindo por meio de notebooks e fóruns. Atualmente possuo 8 medalhas de bronze por essas contribuições. A minha mais recentente competição foi sobre reconhecimento de imagens de algoritmos onde apliquei redes neurais convolucionais do tipo [LeNet-5, atingindo uma acurácia de 99,214%](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer).
-
-## Formação
-
-- **Mestrado em Ciências Naturais**, *Universidade Estadual do Estadual do Norte Fluminense Darcy Ribeiro*, 2017 - 2019
-
-- **Ciências da Natureza - Licenciatura em Física**, *Instituto Federal de educação, ciência e tecnologia Fluminense*, 2010 - 2016
-
-## Cursos Complementares
-
-- **Comunidade Data Science**, *Comunidade DS*, em Andamento.
-
-- **Data Science em Produção**, *Comunidade DS*, Novembro 2020.
-
-- **Deep Learning com Python de A a Z**, *IA Expert*, Março 2020
-
-- **Machine Learning and Data Science com Python de A a Z**, *IA Expert*, Outubro 2019
-
-## Habilidades e Conhecimentos
-
-- SQL
-
-- Python
-
-- Análise de Dados
-
-- *Machine Learning*
+- **Linguagens & Ferramentas:** Python (pandas, scikit-learn, spaCy, pdfplumber, pytesseract), SQL, Git, SAS, Jupyter  
+- **Machine Learning:** regressão, classificação, clustering, redes neurais, análise temporal  
+- **NLP:** tokenização, lematização, regex, sumarização, análise de sentimento  
+- **Outros:** OCR, dashboards interativos, deploy de modelos, visualização de dados  
 
 ## Idiomas
 
-- Inglês, *Avançado*
-
-- Esperanto, *Avançado*
-
-- Português, *Nativo*
+- Português – Nativo  
+- Inglês – Profissional  
+- Esperanto – Profissional
