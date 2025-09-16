@@ -1,75 +1,60 @@
-<div align="center"><big><h2>Clébio Marques de Oliveira Júnior</big></h2></div>
+<div align="center"><big><h2>Clébio Marques de Oliveira Júnior</h2></big></div>
 
 <div align="center" style="color:gray"> 
-    clebiomojunior@gmail.com | <a href="www.juniorcl.github.io" style="color:gray">juniorcl.github.io</a> | <a href="https://www.linkedin.com/in/clebiojunior" style="color:gray">linkedin/in/clebiojunior</a> | <a href="https://www.github.com/juniorcl" style="color:gray">github.com/juniorcl</a>
+    clebiomojunior@gmail.com | <a href="https://medium.com/@juniorcl" style="color:gray">medium.com/@juniorcl</a> | <a href="https://www.linkedin.com/in/clebiojunior" style="color:gray">linkedin/in/clebiojunior</a> | <a href="https://www.github.com/juniorcl" style="color:gray">github.com/juniorcl</a>
 </div>
 
-## Introduction
+## Professional Summary
 
-I'm a physics teacher and a data scientist with a passion for technology. I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on [Medium](https://medium.com/@juniorcl). 
+Data Scientist with **4+ years of experience** applying **machine learning, NLP, and data analysis** to solve real-world business problems with measurable impact.  
+Proven expertise in **credit scoring, sales forecasting, customer segmentation, and behavioral modeling**, as well as in the extraction and processing of **unstructured data** using advanced OCR and regex techniques.  
 
-For more details about my projects and each solution, they are described in my portfolio [juniorcl.github.io](https://www.github.com/juniorcl) or from my [GitHub](https://github.com/juniorcl) page.
+Professional background in technology and consulting companies (Vert Analytics, Datarisk, Be.X!), delivering projects that range from **data exploration and predictive modeling** to **interactive dashboards in SAS**.  
+Active portfolio on GitHub, technical articles on Medium, and recognized contributions on Kaggle.
 
-## Experiences
+## Work Experience
 
-- **Data Scientist**, *Datarisk*, January 2022 - August 2024
+#### Data Scientist – *Vert Analytics*  
+*Oct 2024 – Present*  
+- Designed strategic dashboards in **SAS** to support data-driven decision-making.  
+- Developed a robust pipeline for **unstructured data extraction** (PDF, OCR, regex), data cleaning, and time-series analysis.  
+- Built an **NLP solution for social media comment analysis** using **spaCy** (tokenization, lemmatization, stopwords removal, grammar correction), integrating insights into interactive dashboards.  
 
-    My work is based on exploring, cleaning and analyzing data to bring results related to business problems with the help of machine learning. Below are some example projects:
+#### Data Scientist – *Datarisk*  
+*Jan 2022 – Aug 2024*  
+- Built a **credit scoring model** with higher accuracy for credit approval, reducing default risks.  
+- Designed a **sales forecasting regression model**, reducing MAE by 12% and supporting strategic planning.  
+- Conducted **customer segmentation using clustering**, enabling targeted marketing campaigns and personalized strategies.  
+- Implemented **behavioral predictive models** to identify churn propensity, credit risk, and job instability, driving retention and risk reduction initiatives.  
 
-    - Python, Data Science, Machine Learning, Data Analysis, Git, SQL, Credit Score and Credit Risk.
-    
-    - Development of a machine learning model with the purpose of determining a better credit score through the history of individuals.
-
-    - Development of a machine learning regression model for sales forecasting based on the history of previous years.
-
-    - Study and application of a clustering machine learning model for understanding different customer profiles.
- 
-    - Implementation of a model that identifies certain customer behaviors, such as becoming premium, bad payer or having job instability.
-
-- **Data Scientist**, *Be.X!*, March 2021 - January 2022
-
-    As a scientist I developed projects mainly focused on insights that can come from statistical analysis or machine learning models. Below there are some examples of these projects.
-
-    - Python, Data Science, Machine Learning, Data Analysis, Git and SQL.
-
-    - Treatment and preparation of texts for unstructured data acquisition through regular expressions (regex).
-
-    - Application of statistical methods to discover anomalous (outliers) points that can be harmful and fundamental for decision making.
-
-    - Implementation and use of machine learning models that can better describe the impacts of variables on the business.
-
-    - Machine learning model development to discover deliveries with the greatest possibility of delay through ranking metrics.
+#### Data Scientist – *Be.X!*  
+*Mar 2021 – Jan 2022*  
+- Extracted and structured **unstructured text data** with regex and NLP techniques.  
+- Created **business-rule-based anomaly detection models** to identify outliers and mitigate operational risks.  
+- Developed a **delivery delay prediction model** using ranking metrics, enabling proactive logistics management.  
 
 ## Education
 
-- **Master's Degree in Natural Sciences**, *Universidade Estadual do Estadual do Norte Fluminense Darcy Ribeiro*, 2017 - 2019
+- **M.Sc. in Natural Sciences (Environmental Sciences)** – UENF, 2017-2019  
+- **B.Sc. in Physics (Teaching License)** – Instituto Federal Fluminense, 2010-2016  
 
-- **Graduation, Natural Sciences - Degree in Physics**, *Instituto Federal de educação, ciência e tecnologia Fluminense*, 2010 - 2016
+## Certifications
 
-## Complementary Courses
+- Statistics for Data Science and Machine Learning  
+- Text Summarization with NLP  
+- Clustering: Extracting Patterns from Data  
+- Text Recognition with OCR and Python  
+- Machine Learning and Data Science with Python A–Z  
 
-- **DS Comunity**, *Be A Data Scientist*, November 2022.
+## Technical Skills
 
-- **Data Science in Production**, *Be A Data Scientist*, November 2020.
-
-- **Deep Learning with Python from Scratch**, *Udemy*, March 2020
-
-- **Machine Learning and Data Science with Python from Scratch**, *Udemy*, October 2019
-
-## Skills and Knowledge
-
-- SQL
-
-- Python
-
-- Data Analysis
-
-- Machine Learning
+- **Languages & Tools:** Python (pandas, scikit-learn, spaCy, pdfplumber, pytesseract), SQL, Git, SAS, Jupyter  
+- **Machine Learning:** regression, classification, clustering, neural networks, time-series forecasting  
+- **NLP:** tokenization, lemmatization, regex, summarization, sentiment analysis  
+- **Other:** OCR, interactive dashboards, model deployment, data visualization  
 
 ## Languages
 
-- English, *Advanced*
-
-- Esperanto, *Advanced*
-
-- Portuguese, *Nativo*
+- Portuguese – Native  
+- English – Full Professional  
+- Esperanto – Full Professional  
