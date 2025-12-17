@@ -15,7 +15,8 @@ Mantenho portfólio ativo no GitHub e blog técnico no Medium, além de contribu
 ## Experiência Profissional
 
 #### Cientista de Dados – *Vert Analytics*  
-*Out 2024 – Presente*  
+*Out 2024 – Presente*
+- Automatização da recomendação da defesa mais adequada para pareceres jurídicos, utilizando NLP com embeddings e FAISS, além de extrair dados de PDFs com OCR e Regex, aumentando a eficiência e assertividade das decisões.
 - Desenvolvimento de dashboards estratégicos em **SAS**, a partir da exploração de dados estruturados e não estruturados.  
 - **Extração avançada de dados não estruturados** (PDF, OCR, regex), tratamento de missing values e integração em análises temporais.  
 - Projeto de **NLP para análise de comentários em redes sociais**, usando **spaCy** (tokenização, lematização, stopwords, correção gramatical), com resultados exibidos em dashboards interativos.  
