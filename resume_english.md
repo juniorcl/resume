@@ -15,13 +15,14 @@ Active portfolio on GitHub, technical articles on Medium, and recognized contrib
 ## Work Experience
 
 #### Data Scientist – *Vert Analytics*  
-*Oct 2024 – Present*  
+*Oct 2024 – Present*
+- Automated the recommendation of the most suitable defense for legal opinions using NLP with embeddings and FAISS, and extracted data from PDFs with OCR and Regex, improving efficiency and decision accuracy
 - Designed strategic dashboards in **SAS** to support data-driven decision-making.  
 - Developed a robust pipeline for **unstructured data extraction** (PDF, OCR, regex), data cleaning, and time-series analysis.  
 - Built an **NLP solution for social media comment analysis** using **spaCy** (tokenization, lemmatization, stopwords removal, grammar correction), integrating insights into interactive dashboards.  
 
 #### Data Scientist – *Datarisk*  
-*Jan 2022 – Aug 2024*  
+*Jan 2022 – Aug 2024*
 - Built a **credit scoring model** with higher accuracy for credit approval, reducing default risks.  
 - Designed a **sales forecasting regression model**, reducing MAE by 12% and supporting strategic planning.  
 - Conducted **customer segmentation using clustering**, enabling targeted marketing campaigns and personalized strategies.  
