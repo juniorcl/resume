@@ -1,38 +1,35 @@
 <div align="center"><big><h2>Clébio Marques de Oliveira Júnior</h2></big></div>
 
 <div align="center" style="color:gray"> 
-    clebiomojunior@gmail.com | <a href="https://medium.com/@juniorcl" style="color:gray">medium.com/@juniorcl</a> | <a href="https://www.linkedin.com/in/clebiojunior" style="color:gray">linkedin/in/clebiojunior</a> | <a href="https://www.github.com/juniorcl" style="color:gray">github.com/juniorcl</a>
+    Email: clebiomojunior@gmail.com | Linkedin: <a href="https://www.linkedin.com/in/clebiojunior" style="color:gray">linkedin/in/clebiojunior</a> | GitHub: <a href="https://www.github.com/juniorcl" style="color:gray">github.com/juniorcl</a>
 </div>
 
 ## Resumo Profissional
 
-Cientista de Dados com mais de **4 anos de experiência** em **machine learning, NLP e análise de dados** para solucionar problemas de negócio com impacto real.  
-Experiência em projetos de **score de crédito, previsão de vendas, segmentação de clientes e análise de comportamento**, além de extração e tratamento de **dados não estruturados** com técnicas avançadas de OCR e regex.  
+Cientista de Dados com mais de **4 anos de experiência** em **machine learning, NLP e análise de dados** para solucionar problemas de negócio com impacto real. Experiência em projetos de **score de crédito, previsão de vendas, segmentação de clientes e análise de comportamento**, além de extração e tratamento de **dados não estruturados** com técnicas avançadas de OCR e regex.  
 
-Atuação em empresas de tecnologia e consultoria (Vert Analytics, Datarisk, Be.X!), com entregas envolvendo desde **exploração e modelagem de dados** até a **construção de dashboards interativos em SAS**.  
-Mantenho portfólio ativo no GitHub e blog técnico no Medium, além de contribuições reconhecidas no Kaggle.
+Atuação em empresas de tecnologia e consultoria (Vert Analytics, Datarisk, Be.X!), com entregas envolvendo desde **exploração e modelagem de dados** até a **construção de dashboards interativos em SAS**. Mantenho portfólio ativo no GitHub e blog técnico no Medium, além de contribuições reconhecidas no Kaggle.
 
 ## Experiência Profissional
 
 #### Cientista de Dados – *Vert Analytics*  
 *Out 2024 – Presente*
-- Automatização da recomendação da defesa mais adequada para pareceres jurídicos, utilizando NLP com embeddings e FAISS, além de extrair dados de PDFs com OCR e Regex, aumentando a eficiência e assertividade das decisões.
-- Desenvolvimento de dashboards estratégicos em **SAS**, a partir da exploração de dados estruturados e não estruturados.  
-- **Extração avançada de dados não estruturados** (PDF, OCR, regex), tratamento de missing values e integração em análises temporais.  
-- Projeto de **NLP para análise de comentários em redes sociais**, usando **spaCy** (tokenização, lematização, stopwords, correção gramatical), com resultados exibidos em dashboards interativos.  
+- Automatização da recomendação de defesa mais adequada para pareceres jurídicos usando PCL com embeddings e FAISS.
+- Extração de dados de PDFs utilizando OCR e Regex.
+- Desenvolvimento de pipeline para análise de comentários em mídias sociais com spaCy (tokenização, lematização, remoção de stopwords, correção gramatical).
 
 #### Cientista de Dados – *Datarisk*  
 *Jan 2022 – Ago 2024*  
-- **Score de crédito**: modelo de ML que aumentou a precisão na concessão de crédito, reduzindo risco de inadimplência.  
-- **Previsão de vendas**: modelo de regressão que reduziu o erro médio em 12 %, apoiando planejamento estratégico.  
-- **Clusterização de clientes**: segmentação de perfis, viabilizando campanhas de marketing mais direcionadas.  
-- **Modelos preditivos de comportamento**: identificação de clientes com propensão ao churn, risco de inadimplência e instabilidade no emprego.  
+- Desenvolvimento de um modelo de credit scoring com maior precisão para aprovação de crédito, reduzindo riscos de inadimplência.
+- Desenvolvimento de um modelo de previsão de vendas com regressão, reduzindo MAE em 12%.
+- Realização de segmentação de clientes utilizando modelo de clustering para campanhas de marketing direcionadas.
+- Implementação de modelos preditivos comportamentais para identificar propensão a churn, risco de crédito e instabilidade laboral. 
 
 #### Cientista de Dados – *Be.X!*  
 *Mar 2021 – Jan 2022*  
-- Extração de informações de **dados não estruturados** com regex e NLP.  
-- Detecção de **outliers com regras de negócio**, reduzindo impactos em relatórios operacionais.  
-- Predição de **atrasos em entregas** via modelos de ranking, permitindo ações preventivas na logística. 
+- Extração e estruturação de dados textuais não estruturados com regex e técnicas de PCLN.
+- Criação de modelos de detecção de anomalias baseados em regras de negócio.
+- Desenvolvimento de modelo de previsão de atrasos em entregas utilizando métricas de ranking.
 
 ## Formação Acadêmica
 
@@ -49,9 +46,9 @@ Mantenho portfólio ativo no GitHub e blog técnico no Medium, além de contribu
 
 ## Habilidades Técnicas
 
-- **Linguagens & Ferramentas:** Python (pandas, scikit-learn, spaCy, pdfplumber, pytesseract), SQL, Git, SAS, Jupyter  
+- **Linguagens & Ferramentas:** Python (pandas, scikit-learn, spaCy, pdfplumber, pytesseract), SQL, Git, SAS, Jupyter, Spacy
 - **Machine Learning:** regressão, classificação, clustering, redes neurais, análise temporal  
-- **NLP:** tokenização, lematização, regex, sumarização, análise de sentimento  
+- **NLP:** tokenização, lematização, regex, sumarização, análise de sentimento, FAISS
 - **Outros:** OCR, dashboards interativos, deploy de modelos, visualização de dados  
 
 ## Idiomas
