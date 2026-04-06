@@ -2,15 +2,11 @@
 
 Email: clebiomojunior@gmail.com  
 LinkedIn: https://www.linkedin.com/in/clebiojunior  
-GitHub: https://www.github.com/juniorcl  
-
----
+GitHub: https://www.github.com/juniorcl
 
 ## Professional Summary
 
-Data Scientist with over 4 years of experience in machine learning, natural language processing (NLP), and data analysis, with a strong focus on extracting and processing unstructured data. Proven experience in credit scoring, sales forecasting, customer segmentation, churn prediction, and behavioral analysis. Skilled in building end-to-end data pipelines using Python, pandas, scikit-learn, spaCy, OCR, regular expressions, and FAISS.
-
----
+Data Scientist with over 5 years of experience in machine learning, natural language processing (NLP), and data analysis, with a strong focus on extracting and processing unstructured data. Proven experience in credit scoring, sales forecasting, customer segmentation, churn prediction, and behavioral analysis. Skilled in building end-to-end data pipelines using Python, pandas, scikit-learn, spaCy, OCR, regular expressions, and FAISS.
 
 ## Work Experience
 
@@ -36,8 +32,6 @@ March 2021 – January 2022
 - Designed rule-based anomaly detection models aligned with business requirements.
 - Developed delivery delay prediction models using ranking-based evaluation metrics.
 
----
-
 ## Education
 
 **Master of Science in Natural Sciences (Environmental Sciences)**  
@@ -46,9 +40,7 @@ Universidade Estadual do Norte Fluminense (UENF)
 
 **Bachelor’s Degree in Physics (Teaching Degree)**  
 Instituto Federal Fluminense  
-2010 – 2016  
-
----
+2010 – 2016
 
 ## Certifications
 
@@ -58,8 +50,6 @@ Instituto Federal Fluminense
 - Text Recognition with OCR and Python  
 - Machine Learning and Data Science with Python: From Zero to Advanced  
 
----
-
 ## Technical Skills
 
 Programming Languages: Python, SQL  
@@ -68,8 +58,6 @@ Machine Learning: regression, classification, clustering, time series analysis
 Natural Language Processing: tokenization, lemmatization, sentiment analysis, text summarization  
 Data Processing: OCR, regular expressions, PDF and image data extraction  
 Tools: Git, Jupyter Notebook, SAS  
-
----
 
 ## Languages
 

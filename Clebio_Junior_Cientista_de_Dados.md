@@ -7,16 +7,12 @@ GitHub: https://www.github.com/juniorcl
 
 ## Resumo Profissional
 
----
-
 Cientista de Dados com mais de 5 anos de experiência em machine learning, processamento de linguagem natural (NLP) e análise de dados. 
 Atuação em projetos de credit scoring, previsão de vendas, segmentação de clientes, previsão de churn e modelagem comportamental. 
 Experiência prática com Python, pandas, scikit-learn, spaCy, OCR, regex, FAISS e pipelines de dados de ponta a ponta.
 
 
 ## Experiência Profissional
-
----
 
 ### Cientista de Dados – Vert Analytics  
 Outubro 2024 – Presente
@@ -25,6 +21,7 @@ Outubro 2024 – Presente
 - Implementou pipelines de extração de dados a partir de documentos PDF utilizando OCR (Tesseract) e expressões regulares.
 - Construiu pipelines de processamento de texto para comentários em redes sociais utilizando spaCy, incluindo tokenização, lematização, normalização e correção gramatical.
 
+
 ### Cientista de Dados – Datarisk  
 Janeiro 2022 – Agosto 2024
 
@@ -32,6 +29,7 @@ Janeiro 2022 – Agosto 2024
 - Criou modelo de previsão de vendas com regressão, reduzindo o erro médio absoluto (MAE) em 12%.
 - Realizou segmentação de clientes utilizando algoritmos de clustering para apoiar campanhas de marketing direcionadas.
 - Implementou modelos preditivos comportamentais para identificar propensão a churn, risco de crédito e instabilidade laboral.
+
 
 ### Cientista de Dados – Be.X!  
 Março 2021 – Janeiro 2022
@@ -42,8 +40,6 @@ Março 2021 – Janeiro 2022
 
 
 ## Formação Acadêmica
-
----
 
 **Mestrado em Ciências Naturais (Ciências Ambientais)**  
 Universidade Estadual do Norte Fluminense (UENF)  
@@ -56,8 +52,6 @@ Instituto Federal Fluminense
 
 ## Certificações
 
----
-
 - Estatística para Ciência de Dados e Machine Learning  
 - Sumarização de Textos com Processamento de Linguagem Natural  
 - Clustering: Extraindo Padrões de Dados  
@@ -66,8 +60,6 @@ Instituto Federal Fluminense
 
 
 ## Habilidades Técnicas
-
----
 
 **Linguagens de Programação**: Python, SQL  
 **Bibliotecas e Frameworks**: pandas, scikit-learn, spaCy, FAISS  
@@ -78,8 +70,6 @@ Instituto Federal Fluminense
 
 
 ## Idiomas
-
----
 
 **Português**: Nativo  
 **Inglês**: Proficiência Profissional
