@@ -1,66 +1,60 @@
-# Clébio Marques de Oliveira Júnior
+## Clébio Júnior
 
 Email: clebiomojunior@gmail.com  
-LinkedIn: https://www.linkedin.com/in/clebiojunior  
-GitHub: https://www.github.com/juniorcl
+LinkedIn: linkedin.com/in/clebiojunior  
+GitHub: github.com/juniorcl  
 
-## Professional Summary
+### Professional Summary
 
-Data Scientist with over 5 years of experience in machine learning, natural language processing (NLP), and data analysis, with a strong focus on extracting and processing unstructured data. Proven experience in credit scoring, sales forecasting, customer segmentation, churn prediction, and behavioral analysis. Skilled in building end-to-end data pipelines using Python, pandas, scikit-learn, spaCy, OCR, regular expressions, and FAISS.
+Data Scientist with 5+ years of experience specializing in Machine Learning and Natural Language Processing (NLP), with strong focus on LLM-based applications and unstructured data processing. Proven experience in building scalable recommendation systems, credit risk models, and predictive analytics solutions that drive measurable business impact. Proficient in Python, SQL, and modern AI frameworks.
 
-## Work Experience
+### Technical Skills
 
-### Data Scientist – Vert Analytics  
-October 2024 – Present
+**Programming Languages:** Python, SQL  
+**Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Clustering, Predictive Modeling, Feature Engineering  
+**AI & NLP:** LLM Applications, LangChain, FAISS, Embeddings, SpaCy, OCR (Tesseract), Regex  
+**Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber  
+**Version Control:** Git  
 
-- Automated legal defense recommendation systems using NLP techniques, embeddings, and FAISS.
-- Built data extraction pipelines from PDF documents using OCR and regular expressions.
-- Developed text analysis pipelines for social media data using spaCy, including tokenization, lemmatization, stopword removal, and grammatical correction.
+### Professional Experience
 
-### Data Scientist – Datarisk  
-January 2022 – August 2024
+#### Vert Analytics — Data Scientist  
+**Oct 2024 – Present**
 
-- Developed a credit scoring model to support credit approval decisions, improving risk assessment and reducing default rates.
-- Built a sales forecasting regression model, reducing Mean Absolute Error (MAE) by 12%.
-- Performed customer segmentation using clustering algorithms to support targeted marketing campaigns.
-- Implemented behavioral predictive models to identify churn propensity, credit risk, and employment instability.
+- Developed NLP-based recommendation system using embeddings and FAISS to identify legal defenses, improving decision accuracy and reducing manual research effort  
+- Built automated data extraction pipelines using OCR (Tesseract) and Regex to process unstructured PDF data and enable structured analytics in SAS dashboards  
+- Designed text classification solution using SpaCy to categorize customer complaints, generating actionable insights for product and business strategy  
 
-### Data Scientist – Be.X!  
-March 2021 – January 2022
+#### Datarisk — Data Scientist  
+**Jan 2022 – Aug 2024**
 
-- Extracted and structured unstructured textual data using regular expressions and natural language processing techniques.
-- Designed rule-based anomaly detection models aligned with business requirements.
-- Developed delivery delay prediction models using ranking-based evaluation metrics.
+- Developed machine learning models for credit scoring, improving risk assessment and supporting optimized credit approval decisions  
+- Built regression-based sales forecasting model with advanced feature engineering to support business planning and demand prediction  
+- Applied clustering techniques for customer segmentation, enabling targeted marketing strategies and improving campaign performance  
 
-## Education
+#### Be.X! — Data Scientist  
+**Mar 2021 – Jan 2022**
 
-**Master of Science in Natural Sciences (Environmental Sciences)**  
-Universidade Estadual do Norte Fluminense (UENF)  
-2017 – 2019  
+- Processed large-scale unstructured text data using Regex for data cleaning and transformation  
+- Implemented rule-based anomaly detection systems to identify operational risks and outliers  
+- Developed predictive model for delivery delay estimation using ranking-based approaches, improving logistics efficiency
 
-**Bachelor’s Degree in Physics (Teaching Degree)**  
-Instituto Federal Fluminense  
-2010 – 2016
+### Education
 
-## Certifications
+**Master of Science in Environmental Science (Natural Sciences)**  
+UENF, Brazil — 2017 – 2019  
 
-- Statistics for Data Science and Machine Learning  
-- Text Summarization with Natural Language Processing  
-- Clustering: Extracting Patterns from Data  
+**Bachelor’s Degree in Physics**  
+IFF, Brazil — 2010 – 2016  
+
+### Certifications
+
+- LangChain Essentials (Python)  
 - Text Recognition with OCR and Python  
-- Machine Learning and Data Science with Python: From Zero to Advanced  
+- Clustering: Extracting Data Patterns  
+- Statistics and Data Science  
 
-## Technical Skills
+### Languages
 
-Programming Languages: Python, SQL  
-Libraries and Frameworks: pandas, scikit-learn, spaCy, FAISS  
-Machine Learning: regression, classification, clustering, time series analysis  
-Natural Language Processing: tokenization, lemmatization, sentiment analysis, text summarization  
-Data Processing: OCR, regular expressions, PDF and image data extraction  
-Tools: Git, Jupyter Notebook, SAS  
-
-## Languages
-
-Portuguese: Native  
-English: Professional Working Proficiency  
-Esperanto: Professional Working Proficiency
+- Portuguese: Native  
+- English: Full Professional Proficiency
