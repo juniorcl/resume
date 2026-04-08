@@ -19,21 +19,21 @@ Data Scientist with 5+ years of experience specializing in Machine Learning and 
 ### Professional Experience
 
 #### Vert Analytics — Data Scientist  
-**Oct 2024 – Present**
+*Oct 2024 – Present*
 
 - Developed NLP-based recommendation system using embeddings and FAISS to identify legal defenses, improving decision accuracy and reducing manual research effort  
 - Built automated data extraction pipelines using OCR (Tesseract) and Regex to process unstructured PDF data and enable structured analytics in SAS dashboards  
 - Designed text classification solution using SpaCy to categorize customer complaints, generating actionable insights for product and business strategy  
 
 #### Datarisk — Data Scientist  
-**Jan 2022 – Aug 2024**
+*Jan 2022 – Aug 2024*
 
 - Developed machine learning models for credit scoring, improving risk assessment and supporting optimized credit approval decisions  
 - Built regression-based sales forecasting model with advanced feature engineering to support business planning and demand prediction  
 - Applied clustering techniques for customer segmentation, enabling targeted marketing strategies and improving campaign performance  
 
 #### Be.X! — Data Scientist  
-**Mar 2021 – Jan 2022**
+*Mar 2021 – Jan 2022*
 
 - Processed large-scale unstructured text data using Regex for data cleaning and transformation  
 - Implemented rule-based anomaly detection systems to identify operational risks and outliers  
