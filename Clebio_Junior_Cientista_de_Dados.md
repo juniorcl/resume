@@ -1,75 +1,60 @@
-# Clébio Marques de Oliveira Júnior
+## Clébio Júnior
 
 Email: clebiomojunior@gmail.com  
-LinkedIn: https://www.linkedin.com/in/clebiojunior  
-GitHub: https://www.github.com/juniorcl  
+LinkedIn: linkedin.com/in/clebiojunior  
+GitHub: github.com/juniorcl  
 
+### Resumo Profissional
 
-## Resumo Profissional
+Cientista de Dados com mais de 5 anos de experiência em Machine Learning e Processamento de Linguagem Natural (NLP), com forte atuação em aplicações baseadas em LLMs e processamento de dados não estruturados. Experiência comprovada no desenvolvimento de sistemas de recomendação, modelos de crédito e soluções preditivas que geram impacto mensurável no negócio. Domínio de Python, SQL e frameworks modernos de IA.
 
-Cientista de Dados com mais de 5 anos de experiência em machine learning, processamento de linguagem natural (NLP) e análise de dados. 
-Atuação em projetos de credit scoring, previsão de vendas, segmentação de clientes, previsão de churn e modelagem comportamental. 
-Experiência prática com Python, pandas, scikit-learn, spaCy, OCR, regex, FAISS e pipelines de dados de ponta a ponta.
+### Competências Técnicas
 
+**Linguagens de Programação:** Python, SQL  
+**Machine Learning:** Aprendizado Supervisionado, Aprendizado Não Supervisionado, Regressão, Clusterização, Modelagem Preditiva, Engenharia de Atributos  
+**IA & NLP:** Aplicações com LLMs, LangChain, FAISS, Embeddings, SpaCy, OCR (Tesseract), Expressões Regulares (Regex)  
+**Ferramentas e Bibliotecas:** Pandas, Scikit-learn, SAS, PDFPlumber  
+**Controle de Versão:** Git  
 
-## Experiência Profissional
+### Experiência Profissional
 
-### Cientista de Dados – Vert Analytics  
-Outubro 2024 – Presente
+#### Vert Analytics — Cientista de Dados  
+**Out 2024 – Atual**
 
-- Desenvolveu sistema de recomendação de defesas jurídicas utilizando técnicas de NLP, embeddings e FAISS.
-- Implementou pipelines de extração de dados a partir de documentos PDF utilizando OCR (Tesseract) e expressões regulares.
-- Construiu pipelines de processamento de texto para comentários em redes sociais utilizando spaCy, incluindo tokenização, lematização, normalização e correção gramatical.
+- Desenvolveu sistema de recomendação baseado em NLP utilizando embeddings e FAISS para identificação de defesas jurídicas, aumentando a acurácia das decisões e reduzindo o tempo de análise manual  
+- Construiu pipelines automatizados de extração de dados com OCR (Tesseract) e Regex para processamento de PDFs não estruturados, viabilizando análises em dashboards SAS  
+- Desenvolveu solução de classificação de textos com SpaCy para categorização de reclamações de clientes, gerando insights estratégicos para melhoria de produtos  
 
+#### Datarisk — Cientista de Dados  
+**Jan 2022 – Ago 2024**
 
-### Cientista de Dados – Datarisk  
-Janeiro 2022 – Agosto 2024
+- Desenvolveu modelos de machine learning para credit scoring, melhorando a avaliação de risco e apoiando decisões de concessão de crédito  
+- Criou modelo de regressão para previsão de vendas com engenharia de atributos avançada, auxiliando o planejamento comercial  
+- Aplicou técnicas de clusterização para segmentação de clientes, possibilitando campanhas de marketing mais direcionadas  
 
-- Desenvolveu modelo de credit scoring para apoio à decisão de aprovação de crédito, melhorando a avaliação de risco e reduzindo inadimplência.
-- Criou modelo de previsão de vendas com regressão, reduzindo o erro médio absoluto (MAE) em 12%.
-- Realizou segmentação de clientes utilizando algoritmos de clustering para apoiar campanhas de marketing direcionadas.
-- Implementou modelos preditivos comportamentais para identificar propensão a churn, risco de crédito e instabilidade laboral.
+#### Be.X! — Cientista de Dados  
+**Mar 2021 – Jan 2022**
 
+- Processou grandes volumes de dados textuais não estruturados utilizando Regex para limpeza e transformação de dados  
+- Implementou sistemas de detecção de anomalias baseados em regras para identificação de riscos operacionais  
+- Desenvolveu modelo preditivo para estimativa de atrasos logísticos utilizando métricas baseadas em ranking, aumentando a eficiência operacional  
 
-### Cientista de Dados – Be.X!  
-Março 2021 – Janeiro 2022
+### Formação Acadêmica
 
-- Extraiu e estruturou dados textuais não estruturados utilizando expressões regulares e técnicas de processamento de linguagem natural.
-- Projetou modelos de detecção de anomalias baseados em regras alinhadas a requisitos de negócio.
-- Desenvolveu modelos de previsão de atrasos em entregas utilizando métricas baseadas em ranking.
+**Mestrado em Ciências Ambientais (Ciências Naturais)**  
+UENF — 2017 – 2019  
 
+**Bacharelado em Física**  
+IFF — 2010 – 2016  
 
-## Formação Acadêmica
+### Certificações
 
-**Mestrado em Ciências Naturais (Ciências Ambientais)**  
-Universidade Estadual do Norte Fluminense (UENF)  
-2017 – 2019
+- LangChain Essentials (Python)  
+- Text Recognition with OCR and Python  
+- Clustering: Extracting Data Patterns  
+- Statistics and Data Science  
 
-**Licenciatura em Física**  
-Instituto Federal Fluminense  
-2010 – 2016
+### Idiomas
 
-
-## Certificações
-
-- Estatística para Ciência de Dados e Machine Learning  
-- Sumarização de Textos com Processamento de Linguagem Natural  
-- Clustering: Extraindo Padrões de Dados  
-- Reconhecimento de Textos com OCR e Python  
-- Machine Learning e Data Science com Python do Zero ao Avançado  
-
-
-## Habilidades Técnicas
-
-**Linguagens de Programação**: Python, SQL  
-**Bibliotecas e Frameworks**: pandas, scikit-learn, spaCy, FAISS  
-**Machine Learning**: regressão, classificação, clustering, análise de séries temporais  
-**Processamento de Linguagem Natural**: tokenização, lematização, análise de sentimento, sumarização de textos  
-**Processamento de Dados**: OCR, expressões regulares, extração de dados de PDF  
-**Ferramentas**: Git, Jupyter Notebook, SAS  
-
-
-## Idiomas
-
-**Português**: Nativo  
-**Inglês**: Proficiência Profissional
+- Português: Nativo  
+- Inglês: Proficiência Profissional
