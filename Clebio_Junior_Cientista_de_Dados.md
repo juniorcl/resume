@@ -19,25 +19,25 @@ Cientista de Dados com mais de 5 anos de experiência em Machine Learning e Proc
 ### Experiência Profissional
 
 #### Vert Analytics — Cientista de Dados  
-**Out 2024 – Atual**
+*Out 2024 – Atual*
 
-- Desenvolveu sistema de recomendação baseado em NLP utilizando embeddings e FAISS para identificação de defesas jurídicas, aumentando a acurácia das decisões e reduzindo o tempo de análise manual  
-- Construiu pipelines automatizados de extração de dados com OCR (Tesseract) e Regex para processamento de PDFs não estruturados, viabilizando análises em dashboards SAS  
-- Desenvolveu solução de classificação de textos com SpaCy para categorização de reclamações de clientes, gerando insights estratégicos para melhoria de produtos  
+- Desenvolvimento de um sistema de recomendação baseado em NLP utilizando embeddings e FAISS para identificação de defesas jurídicas, aumentando a acurácia das decisões e reduzindo o tempo de análise manual  
+- Construção de pipelines automatizados de extração de dados com OCR (Tesseract) e Regex para processamento de PDFs não estruturados, viabilizando análises em dashboards SAS  
+- Desenvolvimento de uma solução de classificação de textos com SpaCy para categorização de reclamações de clientes, gerando insights estratégicos para melhoria de produtos  
 
 #### Datarisk — Cientista de Dados  
-**Jan 2022 – Ago 2024**
+*Jan 2022 – Ago 2024*
 
-- Desenvolveu modelos de machine learning para credit scoring, melhorando a avaliação de risco e apoiando decisões de concessão de crédito  
-- Criou modelo de regressão para previsão de vendas com engenharia de atributos avançada, auxiliando o planejamento comercial  
-- Aplicou técnicas de clusterização para segmentação de clientes, possibilitando campanhas de marketing mais direcionadas  
+- Desenvolvimento de modelos de machine learning para credit scoring, melhorando a avaliação de risco e apoiando decisões de concessão de crédito  
+- Criação de um modelo de regressão para previsão de vendas com engenharia de atributos avançada, auxiliando o planejamento comercial  
+- Aplicação de técnicas de clusterização para segmentação de clientes, possibilitando campanhas de marketing mais direcionadas  
 
 #### Be.X! — Cientista de Dados  
-**Mar 2021 – Jan 2022**
+*Mar 2021 – Jan 2022*
 
-- Processou grandes volumes de dados textuais não estruturados utilizando Regex para limpeza e transformação de dados  
-- Implementou sistemas de detecção de anomalias baseados em regras para identificação de riscos operacionais  
-- Desenvolveu modelo preditivo para estimativa de atrasos logísticos utilizando métricas baseadas em ranking, aumentando a eficiência operacional  
+- Processamento de grandes volumes de dados textuais não estruturados utilizando Regex para limpeza e transformação de dados  
+- Implementação de sistemas de detecção de anomalias baseados em regras para identificação de riscos operacionais  
+- Desenvolvimento de um modelo preditivo para estimativa de atrasos logísticos utilizando métricas baseadas em ranking, aumentando a eficiência operacional  
 
 ### Formação Acadêmica
 
