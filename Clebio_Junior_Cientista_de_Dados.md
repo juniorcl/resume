@@ -1,60 +1,79 @@
-## Clébio Júnior
+# Clébio Marques de Oliveira Júnior
 
-Email: clebiomojunior@gmail.com  
-LinkedIn: linkedin.com/in/clebiojunior  
-GitHub: github.com/juniorcl  
+Email: [clebiomojunior@gmail.com](mailto:clebiomojunior@gmail.com)
 
-### Resumo Profissional
+LinkedIn: https://www.linkedin.com/in/clebiojunior
 
-Cientista de Dados com mais de 5 anos de experiência em Machine Learning e Processamento de Linguagem Natural (NLP), com forte atuação em aplicações baseadas em LLMs e processamento de dados não estruturados. Experiência comprovada no desenvolvimento de sistemas de recomendação, modelos de crédito e soluções preditivas que geram impacto mensurável no negócio. Domínio de Python, SQL e frameworks modernos de IA.
+GitHub: https://github.com/juniorcl
 
-### Competências Técnicas
+## Resumo Profissional
 
-**Linguagens de Programação:** Python, SQL  
-**Machine Learning:** Aprendizado Supervisionado, Aprendizado Não Supervisionado, Regressão, Clusterização, Modelagem Preditiva, Engenharia de Atributos  
-**IA & NLP:** Aplicações com LLMs, LangChain, FAISS, Embeddings, SpaCy, OCR (Tesseract), Expressões Regulares (Regex)  
-**Ferramentas e Bibliotecas:** Pandas, Scikit-learn, SAS, PDFPlumber  
-**Controle de Versão:** Git  
+Cientista de Dados com mais de 5 anos de experiência em programação aplicada a dados, machine learning, processamento de linguagem natural (NLP) e análise de dados.
 
-### Experiência Profissional
+Experiência no desenvolvimento de soluções para problemas reais de negócio, incluindo credit scoring, previsão de vendas, segmentação de clientes, análise de comportamento, detecção de anomalias, previsão de atrasos e processamento de dados estruturados e não estruturados. 
 
-#### Vert Analytics — Cientista de Dados  
-*Out 2024 – Atual*
+Conhecimento prático de Python, SQL, pandas, scikit-learn, spaCy, FAISS, OCR, Tesseract, regex e processamento de documentos, além do desenvolvimento de pipelines de dados, automação de processos, engenharia de atributos, modelagem preditiva e aplicações de inteligência artificial, incluindo soluções baseadas em embeddings, RAG e LLMs.
 
-- Desenvolvimento de um sistema de recomendação baseado em NLP utilizando embeddings e FAISS para identificação de defesas jurídicas, aumentando a acurácia das decisões e reduzindo o tempo de análise manual  
-- Construção de pipelines automatizados de extração de dados com OCR (Tesseract) e Regex para processamento de PDFs não estruturados, viabilizando análises em dashboards SAS  
-- Desenvolvimento de uma solução de classificação de textos com SpaCy para categorização de reclamações de clientes, gerando insights estratégicos para melhoria de produtos  
+## Experiência Profissional
 
-#### Datarisk — Cientista de Dados  
-*Jan 2022 – Ago 2024*
+**Cientista de Dados – Vert Analytics**
 
-- Desenvolvimento de modelos de machine learning para credit scoring, melhorando a avaliação de risco e apoiando decisões de concessão de crédito  
-- Criação de um modelo de regressão para previsão de vendas com engenharia de atributos avançada, auxiliando o planejamento comercial  
-- Aplicação de técnicas de clusterização para segmentação de clientes, possibilitando campanhas de marketing mais direcionadas  
+*Outubro de 2024 – Presente*
 
-#### Be.X! — Cientista de Dados  
-*Mar 2021 – Jan 2022*
+* Desenvolvimento de soluções de análise de dados e machine learning para geração de insights estratégicos.
+* Desenvolvimento de sistema de recomendação de defesas jurídicas utilizando técnicas de NLP, embeddings e FAISS.
+* Implementação de pipelines de extração e processamento de dados a partir de documentos PDF, incluindo documentos digitalizados.
+* Utilização de OCR com Tesseract, expressões regulares e pdfplumber para extração e estruturação de informações.
+* Desenvolvimento de pipelines de processamento de texto para análise de comentários em redes sociais utilizando spaCy.
+* Aplicação de técnicas de tokenização, lematização, remoção de stopwords e correção gramatical.
+* Análise de padrões e anomalias em séries temporais.
+* Desenvolvimento de dashboards interativos em SAS para apresentação de análises e resultados.
 
-- Processamento de grandes volumes de dados textuais não estruturados utilizando Regex para limpeza e transformação de dados  
-- Implementação de sistemas de detecção de anomalias baseados em regras para identificação de riscos operacionais  
-- Desenvolvimento de um modelo preditivo para estimativa de atrasos logísticos utilizando métricas baseadas em ranking, aumentando a eficiência operacional  
+**Cientista de Dados – Datarisk**
 
-### Formação Acadêmica
+*Janeiro de 2022 – Agosto de 2024*
 
-**Mestrado em Ciências Ambientais (Ciências Naturais)**  
-UENF — 2017 – 2019  
+* Desenvolvimento de modelos de credit scoring para apoiar decisões de concessão de crédito e avaliação de risco.
+* Desenvolvimento de modelos de previsão de vendas utilizando técnicas de regressão, incluindo pré-processamento, engenharia de atributos e otimização de hiperparâmetros.
+* Realização de segmentação de clientes cadastrados no banco de dados utilizando algoritmos de clustering para identificação de padrões comportamentais.
+* Desenvolvimento de modelos preditivos para análise de comportamento, incluindo propensão a churn, risco de crédito e instabilidade laboral.
+* Aplicação de técnicas de machine learning para solucionar problemas de negócio relacionados a risco, comportamento de clientes e planejamento comercial.
 
-**Bacharelado em Física**  
-IFF — 2010 – 2016  
+**Cientista de Dados – Be.X!**
 
-### Certificações
+*Março de 2021 – Janeiro de 2022*
 
-- LangChain Essentials (Python)  
-- Text Recognition with OCR and Python  
-- Clustering: Extracting Data Patterns  
-- Statistics and Data Science  
+* Extração, limpeza e estruturação de dados não estruturados utilizando expressões regulares e técnicas de processamento de texto.
+* Desenvolvimento de soluções de detecção de anomalias baseadas em regras de negócio.
+* Desenvolvimento de modelos preditivos para estimar a probabilidade de atrasos em entregas.
+* Aplicação de métricas baseadas em ranking para priorização de entregas com maior risco de atraso.
 
-### Idiomas
+## Formação Acadêmica
 
-- Português: Nativo  
-- Inglês: Proficiência Profissional
+**Mestrado em Ciências Naturais – Ciências Ambientais**
+
+Universidade Estadual do Norte Fluminense (UENF) 
+
+*2017 – 2019*
+
+**Licenciatura em Física**
+
+Instituto Federal Fluminense (IFF)
+
+*2010 – 2016*
+
+## Habilidades Técnicas
+
+**Linguagens de Programação:** Python e SQL
+
+**Machine Learning:** Regressão, classificação, clustering, modelagem preditiva e análise de séries temporais
+
+**Processamento de Linguagem Natural:** Tokenização, lematização, embeddings, análise de texto, sumarização e processamento de linguagem natural
+
+**LLMs e Inteligência Artificial:** RAG, embeddings, FAISS, Ollama e aplicações com LLMs
+
+## Idiomas
+
+**Português:** Nativo
+
+**Inglês:** Proficiência Profissional

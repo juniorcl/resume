@@ -1,60 +1,79 @@
-## Clébio Júnior
+# Clébio Marques de Oliveira Júnior
 
-Email: clebiomojunior@gmail.com  
-LinkedIn: linkedin.com/in/clebiojunior  
-GitHub: github.com/juniorcl  
+Email: [clebiomojunior@gmail.com](mailto:clebiomojunior@gmail.com)
 
-### Professional Summary
+LinkedIn: https://www.linkedin.com/in/clebiojunior
 
-Data Scientist with 5+ years of experience specializing in Machine Learning and Natural Language Processing (NLP), with strong focus on LLM-based applications and unstructured data processing. Proven experience in building scalable recommendation systems, credit risk models, and predictive analytics solutions that drive measurable business impact. Proficient in Python, SQL, and modern AI frameworks.
+GitHub: https://github.com/juniorcl
 
-### Technical Skills
+## Professional Summary
 
-**Programming Languages:** Python, SQL  
-**Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Clustering, Predictive Modeling, Feature Engineering  
-**AI & NLP:** LLM Applications, LangChain, FAISS, Embeddings, SpaCy, OCR (Tesseract), Regex  
-**Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber  
-**Version Control:** Git  
+Data Scientist with over 5 years of experience in programming applied to data, machine learning, natural language processing (NLP), and data analysis.
 
-### Professional Experience
+Experience developing solutions for real-world business problems, including credit scoring, sales forecasting, customer segmentation, behavioral analysis, anomaly detection, delivery delay prediction, and structured and unstructured data processing.
 
-#### Vert Analytics — Data Scientist  
-*Oct 2024 – Present*
+Practical knowledge of Python, SQL, pandas, scikit-learn, spaCy, FAISS, OCR, Tesseract, regular expressions, and document processing, as well as data pipeline development, process automation, feature engineering, predictive modeling, and artificial intelligence applications, including solutions based on embeddings, RAG, and LLMs.
 
-- Developed NLP-based recommendation system using embeddings and FAISS to identify legal defenses, improving decision accuracy and reducing manual research effort  
-- Built automated data extraction pipelines using OCR (Tesseract) and Regex to process unstructured PDF data and enable structured analytics in SAS dashboards  
-- Designed text classification solution using SpaCy to categorize customer complaints, generating actionable insights for product and business strategy  
+## Professional Experience
 
-#### Datarisk — Data Scientist  
-*Jan 2022 – Aug 2024*
+**Data Scientist – Vert Analytics**
 
-- Developed machine learning models for credit scoring, improving risk assessment and supporting optimized credit approval decisions  
-- Built regression-based sales forecasting model with advanced feature engineering to support business planning and demand prediction  
-- Applied clustering techniques for customer segmentation, enabling targeted marketing strategies and improving campaign performance  
+*October 2024 – Present*
 
-#### Be.X! — Data Scientist  
-*Mar 2021 – Jan 2022*
+* Develop data analysis and machine learning solutions to generate strategic insights.
+* Developed a legal defense recommendation system using NLP techniques, embeddings, and FAISS.
+* Implemented data extraction and processing pipelines for PDF documents, including scanned documents.
+* Used OCR with Tesseract, regular expressions, and pdfplumber to extract and structure information.
+* Developed text processing pipelines for social media comment analysis using spaCy.
+* Applied tokenization, lemmatization, stopword removal, and grammar correction techniques.
+* Analyzed patterns and anomalies in time series.
+* Developed interactive SAS dashboards to present analyses and results.
 
-- Processed large-scale unstructured text data using Regex for data cleaning and transformation  
-- Implemented rule-based anomaly detection systems to identify operational risks and outliers  
-- Developed predictive model for delivery delay estimation using ranking-based approaches, improving logistics efficiency
+**Data Scientist – Datarisk**
 
-### Education
+*January 2022 – August 2024*
 
-**Master of Science in Environmental Science (Natural Sciences)**  
-UENF, Brazil — 2017 – 2019  
+* Developed credit scoring models to support credit approval decisions and risk assessment.
+* Developed sales forecasting models using regression techniques, including preprocessing, feature engineering, and hyperparameter optimization.
+* Performed customer segmentation using clustering algorithms to identify behavioral patterns among customers in the database.
+* Developed predictive models for behavioral analysis, including churn propensity, credit risk, and employment instability.
+* Applied machine learning techniques to solve business problems related to risk, customer behavior, and commercial planning.
 
-**Bachelor’s Degree in Physics**  
-IFF, Brazil — 2010 – 2016  
+**Data Scientist – Be.X!**
 
-### Certifications
+*March 2021 – January 2022*
 
-- LangChain Essentials (Python)  
-- Text Recognition with OCR and Python  
-- Clustering: Extracting Data Patterns  
-- Statistics and Data Science  
+* Extracted, cleaned, and structured unstructured data using regular expressions and text processing techniques.
+* Developed business-rule-based anomaly detection solutions.
+* Developed predictive models to estimate the probability of delivery delays.
+* Applied ranking-based metrics to prioritize deliveries with a higher risk of delay.
 
-### Languages
+## Education
 
-- Portuguese: Native  
-- English: Full Professional Proficiency
+**Master's Degree in Natural Sciences – Environmental Sciences**
+
+State University of Northern Rio de Janeiro (UENF)
+
+*2017 – 2019*
+
+**Bachelor's Degree in Physics Education**
+
+Instituto Federal Fluminense (IFF)
+
+*2010 – 2016*
+
+## Technical Skills
+
+**Programming Languages:** Python and SQL
+
+**Machine Learning:** Regression, classification, clustering, predictive modeling, and time series analysis
+
+**Natural Language Processing:** Tokenization, lemmatization, embeddings, text analysis, summarization, and natural language processing
+
+**LLMs and Artificial Intelligence:** RAG, embeddings, FAISS, Ollama, and LLM applications
+
+## Languages
+
+**Portuguese:** Native
+
+**English:** Full Professional Proficiency
