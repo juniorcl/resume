@@ -12,15 +12,15 @@ This repository contains my professional resumes in **Portuguese and English**, 
 
 | Perfil                 | Markdown                                                   | PDF                                                  |
 | ---------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
-| **Cientista de Dados** | [Visualizar](./clebio_junior_curriculo_cientista_dados.md) | [PDF](./clebio_junior_curriculo_cientista_dados.pdf) |
-| **Engenheiro de IA**   | [Visualizar](./clebio_junior_curriculo_engenheiro_ia.md)   | [PDF](./clebio_junior_curriculo_engenheiro_ia.pdf)   |
+| **Cientista de Dados** | [Visualizar](./pt/clebio_junior_curriculo_cientista_dados.md) | [PDF](./pt/clebio_junior_curriculo_cientista_dados.pdf) |
+| **Engenheiro de IA**   | [Visualizar](./pt/clebio_junior_curriculo_engenheiro_ia.md)   | [PDF](./pt/clebio_junior_curriculo_engenheiro_ia.pdf)   |
 
 ### 🇺🇸 English
 
 | Profile            | Markdown                                         | PDF                                              |
 | ------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| **Data Scientist** | [View](./clebio_junior_resume_data_scientist.md) | [PDF](./clebio_junior_resume_data_scientist.pdf) |
-| **AI Engineer**    | [View](./clebio_junior_resume_ai_engineer.md)    | [PDF](./clebio_junior_resume_ai_engineer.pdf)    |
+| **Data Scientist** | [View](./en/clebio_junior_resume_data_scientist.md) | [PDF](./en/clebio_junior_resume_data_scientist.pdf) |
+| **AI Engineer**    | [View](./en/clebio_junior_resume_ai_engineer.md)    | [PDF](./en/clebio_junior_resume_ai_engineer.pdf)    |
 
 ---
 
